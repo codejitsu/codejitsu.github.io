@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, my name is Alex. I am Scala developer located in Munich.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I like Scala, functional programming, italian food and books.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[me@codejitsu.net](mailto:me@codejitsu.net)
