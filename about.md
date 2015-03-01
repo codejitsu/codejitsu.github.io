@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, my name is Alex. I am Scala developer located in Munich.
+Hi, my name is Alex. I am Scala/Java developer located in Munich.
 
 ### More Information
 
