@@ -6,7 +6,7 @@
 name: codejitsu
 
 # Short bio or description (displayed in the header)
-description: tail -f codejitsu
+description: ideas.flatMap(idea => blog)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/2665808?v=3&s=460
