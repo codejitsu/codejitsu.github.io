@@ -11,6 +11,9 @@ description: ideas.flatMap(idea &#10140; blog)
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/2665808?v=3&s=460
 
+# theme
+theme: jekyll-theme-midnight
+
 #
 # Flags below are optional
 #
