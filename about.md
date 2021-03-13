@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Hi, my name is Alex Sverdelov. 
+Hi, my name is Alex Sverdelov!
 
-> 2019 - present
+### 2019 - present
 
 I'm software engineer @ Amazon Web Services located in Berlin.
 
-> past - 2019
+### past - 2019
 
 ~~I am Scala/Java developer located in Munich.~~
 
